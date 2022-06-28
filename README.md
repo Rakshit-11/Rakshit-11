@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Rakshit-11
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on instagram
-- 📫 You can reach me on instagram @hacking_teck
